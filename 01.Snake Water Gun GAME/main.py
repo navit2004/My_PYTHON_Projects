@@ -1,8 +1,8 @@
 import random
 '''
-1 For snake
-0 for gun
--1 for water
+s For snake
+g for gun
+w for water
 '''
 
 computer =random.choice([-1,1,0])
